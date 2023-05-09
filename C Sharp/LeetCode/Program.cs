@@ -12,8 +12,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] arr = { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
-            int a = _26RemoveDuplicatesFromSortedArray.RemoveDuplicates(arr);
+            int[] arr = { 0, 1, 2, 2, 3, 0, 4, 2 };
+            int a = _27RemoveElement.RemoveElement(arr, 2);
             PrintArray(arr);
             Console.WriteLine(a);
             Console.ReadLine();
