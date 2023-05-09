@@ -46,6 +46,7 @@
     <Compile Include="Common\ListNode.cs" />
     <Compile Include="Common\TreeNode.cs" />
     <Compile Include="Easy\217ContainsDuplicate.cs" />
+    <Compile Include="Easy\26RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Easy\682BaseballGame.cs" />
     <Compile Include="Easy\Add_Binary.cs" />
     <Compile Include="Easy\BinaryTreeInorderTraversal.cs" />

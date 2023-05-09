@@ -12,7 +12,10 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(_682BaseballGame.CalPoints(new string[] { "5", "2", "C", "D", "+" }));
+            int[] arr = { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
+            int a = _26RemoveDuplicatesFromSortedArray.RemoveDuplicates(arr);
+            PrintArray(arr);
+            Console.WriteLine(a);
             Console.ReadLine();
         }
         static string PrintArray(int[] a)
