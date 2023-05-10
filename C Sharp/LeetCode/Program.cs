@@ -12,10 +12,9 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] arr = { 0, 1, 2, 2, 3, 0, 4, 2 };
-            int a = _27RemoveElement.RemoveElement(arr, 2);
-            PrintArray(arr);
-            Console.WriteLine(a);
+            int[] arr = { 1, 3, 2, 1 };
+            int[] a = _1929ConcatenationOfArray.GetConcatenation(arr);
+            PrintArray(a);
             Console.ReadLine();
         }
         static string PrintArray(int[] a)
