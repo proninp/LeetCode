@@ -12,8 +12,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1, 3, 2, 1 };
-            int[] a = _1929ConcatenationOfArray.GetConcatenation(arr);
+            int[] a = _1Two_Sum.TwoSum(new int[] { 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1 }, 11);
             PrintArray(a);
             Console.ReadLine();
         }
