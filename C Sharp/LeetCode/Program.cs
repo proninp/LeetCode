@@ -12,8 +12,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] a = _1Two_Sum.TwoSum(new int[] { 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1 }, 11);
-            PrintArray(a);
+            int a = _1512NumberOfGoodPairs.NumIdenticalPairs(new int[] { 1, 2, 3, 1, 1, 3 });
+            Console.WriteLine(a);
             Console.ReadLine();
         }
         static string PrintArray(int[] a)

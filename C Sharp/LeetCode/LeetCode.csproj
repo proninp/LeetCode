@@ -47,6 +47,7 @@
     <Compile Include="Common\TreeNode.cs" />
     <Compile Include="Easy\1431KidsWithTheGreatestNumberOfCandies.cs" />
     <Compile Include="Easy\1470ShuffleTheArray.cs" />
+    <Compile Include="Easy\1512NumberOfGoodPairs.cs" />
     <Compile Include="Easy\1920BuildArrayFromPermutation.cs" />
     <Compile Include="Easy\1929ConcatenationOfArray.cs" />
     <Compile Include="Easy\1Two Sum.cs" />
