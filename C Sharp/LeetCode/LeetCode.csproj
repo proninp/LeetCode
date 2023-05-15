@@ -54,6 +54,7 @@
     <Compile Include="Easy\1Two Sum.cs" />
     <Compile Include="Easy\2011FinalValueOfVariableAfterPerformingOperations.cs" />
     <Compile Include="Easy\217ContainsDuplicate.cs" />
+    <Compile Include="Easy\242ValidAnagram.cs" />
     <Compile Include="Easy\2574LeftAndRightSumDifferences.cs" />
     <Compile Include="Easy\26RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Easy\27RemoveElement.cs" />
