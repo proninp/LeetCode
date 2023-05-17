@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,7 +25,19 @@ namespace LeetCode.Easy
     {
         public static string LongestCommonPrefix(string[] strs)
         {
-            return FirstSolution(strs);
+            return ThirdSolution(strs);
+        }
+        public static string ThirdSolution(string[] strs)
+        {
+            StringBuilder ans = new StringBuilder(strs[0].Length);
+            for (int i = 0; i < strs[0].Length; i++)
+            {
+                foreach (string s in strs)
+                    if (i >= s.Length || s[i] != strs[0][i])
+                        return ans.ToString();
+                ans.Append(strs[0][i]);
+            }
+            return ans.ToString();
         }
         static string SecondSolution(string[] strs)
         {
