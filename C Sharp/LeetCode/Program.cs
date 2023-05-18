@@ -12,8 +12,17 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int a = _1512NumberOfGoodPairs.NumIdenticalPairs(new int[] { 1, 2, 3, 1, 1, 3 });
-            Console.WriteLine(a);
+            string[] strs = { "eat", "tea", "tan", "ate", "nat", "bat" };
+            IList<IList<string>> list = _49_group_anagrams.GroupAnagrams(strs);
+            foreach(var e in list)
+            {
+                Console.Write("( ");
+                foreach(var el in e)
+                {
+                    Console.Write($"[{el}] ");
+                }
+                Console.Write(" ) ");
+            }
             Console.ReadLine();
         }
         static string PrintArray(int[] a)
