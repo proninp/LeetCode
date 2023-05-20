@@ -12,17 +12,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            string[] strs = { "eat", "tea", "tan", "ate", "nat", "bat" };
-            IList<IList<string>> list = _49_group_anagrams.GroupAnagrams(strs);
-            foreach(var e in list)
-            {
-                Console.Write("( ");
-                foreach(var el in e)
-                {
-                    Console.Write($"[{el}] ");
-                }
-                Console.Write(" ) ");
-            }
+            Console.WriteLine(_929_unique_email_addresses.NumUniqueEmails(new string[] { "test.email+alex@leetcode.com", "test.email.leet+alex@code.com" }));
             Console.ReadLine();
         }
         static string PrintArray(int[] a)
