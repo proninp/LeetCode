@@ -64,6 +64,7 @@
     <Compile Include="Easy\27RemoveElement.cs" />
     <Compile Include="Easy\392IsSubsequence.cs" />
     <Compile Include="Easy\58LengthOfLastWord.cs" />
+    <Compile Include="Easy\605-can-place-flowers.cs" />
     <Compile Include="Easy\682BaseballGame.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
     <Compile Include="Easy\Add_Binary.cs" />
