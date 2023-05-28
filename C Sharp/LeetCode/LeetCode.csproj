@@ -54,6 +54,7 @@
     <Compile Include="Easy\169-majority-element.cs" />
     <Compile Include="Easy\1920BuildArrayFromPermutation.cs" />
     <Compile Include="Easy\1929ConcatenationOfArray.cs" />
+    <Compile Include="Easy\1991FindTheMiddleIndexInArray.cs" />
     <Compile Include="Easy\1Two Sum.cs" />
     <Compile Include="Easy\2011FinalValueOfVariableAfterPerformingOperations.cs" />
     <Compile Include="Easy\205-Isomorphic-Strings.cs" />
