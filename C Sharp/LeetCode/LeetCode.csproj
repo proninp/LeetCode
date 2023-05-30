@@ -67,6 +67,7 @@
     <Compile Include="Easy\27RemoveElement.cs" />
     <Compile Include="Easy\303RangeSumQueryImmutable.cs" />
     <Compile Include="Easy\392IsSubsequence.cs" />
+    <Compile Include="Easy\448FindAllNumbersDisappearedInAnArray.cs" />
     <Compile Include="Easy\496-Next-Greater-Element-I.cs" />
     <Compile Include="Easy\58LengthOfLastWord.cs" />
     <Compile Include="Easy\605-can-place-flowers.cs" />
