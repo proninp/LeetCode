@@ -75,6 +75,7 @@
     <Compile Include="Easy\58LengthOfLastWord.cs" />
     <Compile Include="Easy\605-can-place-flowers.cs" />
     <Compile Include="Easy\682BaseballGame.cs" />
+    <Compile Include="Easy\706DesignHashMap.cs" />
     <Compile Include="Easy\724FindPivotIndex.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
     <Compile Include="Easy\Add_Binary.cs" />
