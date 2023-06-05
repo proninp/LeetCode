@@ -12,7 +12,9 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(_929_unique_email_addresses.NumUniqueEmails(new string[] { "test.email+alex@leetcode.com", "test.email.leet+alex@code.com" }));
+            int[] array = { 5, 2, 3, 1 };
+            var sorted = _912SortAnArray.SortArray(array);
+            PrintArray(sorted);
             Console.ReadLine();
         }
         static string PrintArray(int[] a)

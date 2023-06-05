@@ -103,6 +103,7 @@
     <Compile Include="Easy\Two_Sum.cs" />
     <Compile Include="Easy\Valid_Parentheses.cs" />
     <Compile Include="Medium\49-group-anagrams.cs" />
+    <Compile Include="Medium\912SortAnArray.cs" />
     <Compile Include="Medium\Longest_Substring_Without_Repeating_Characters.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Program.cs" />
