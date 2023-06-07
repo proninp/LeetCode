@@ -57,6 +57,7 @@
     <Compile Include="Easy\169-majority-element.cs" />
     <Compile Include="Easy\1769MinimumNumberOfOperationsToMoveAllBallsToEachBox.cs" />
     <Compile Include="Easy\1773CountItemsMatchingARule.cs" />
+    <Compile Include="Easy\1816TruncateSentence.cs" />
     <Compile Include="Easy\1920BuildArrayFromPermutation.cs" />
     <Compile Include="Easy\1929ConcatenationOfArray.cs" />
     <Compile Include="Easy\1991FindTheMiddleIndexInArray.cs" />
