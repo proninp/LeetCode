@@ -54,6 +54,7 @@
     <Compile Include="Easy\1528ShuffleString.cs" />
     <Compile Include="Easy\1662CheckIfTwoStringArraysAreEquivalent.cs" />
     <Compile Include="Easy\1672RichestCustomerWealth.cs" />
+    <Compile Include="Easy\1684CountTheNumberOfConsistentStrings.cs" />
     <Compile Include="Easy\169-majority-element.cs" />
     <Compile Include="Easy\1769MinimumNumberOfOperationsToMoveAllBallsToEachBox.cs" />
     <Compile Include="Easy\1773CountItemsMatchingARule.cs" />
@@ -81,6 +82,7 @@
     <Compile Include="Easy\682BaseballGame.cs" />
     <Compile Include="Easy\706DesignHashMap.cs" />
     <Compile Include="Easy\724FindPivotIndex.cs" />
+    <Compile Include="Easy\804UniqueMorseCodeWords.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
     <Compile Include="Easy\Add_Binary.cs" />
     <Compile Include="Easy\BinaryTreeInorderTraversal.cs" />
