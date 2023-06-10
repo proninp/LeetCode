@@ -12,9 +12,9 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] array = { 5, 2, 3, 1 };
-            var sorted = _912SortAnArray.SortArray(array);
-            PrintArray(sorted);
+            int[] array = { 1 };
+            var ans = _347TopKFrequentElements.TopKFrequent2(array, 1);
+            PrintArray(ans);
             Console.ReadLine();
         }
         static string PrintArray(int[] a)
