@@ -110,6 +110,7 @@
     <Compile Include="Easy\TreeNodePathSum.cs" />
     <Compile Include="Easy\Two_Sum.cs" />
     <Compile Include="Easy\Valid_Parentheses.cs" />
+    <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
     <Compile Include="Medium\347TopKFrequentElements.cs" />
     <Compile Include="Medium\49-group-anagrams.cs" />
     <Compile Include="Medium\912SortAnArray.cs" />
