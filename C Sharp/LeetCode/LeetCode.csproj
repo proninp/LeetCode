@@ -65,6 +65,7 @@
     <Compile Include="Easy\1Two Sum.cs" />
     <Compile Include="Easy\2011FinalValueOfVariableAfterPerformingOperations.cs" />
     <Compile Include="Easy\205-Isomorphic-Strings.cs" />
+    <Compile Include="Easy\2108FindFirstPalindromicStringInTheArray.cs" />
     <Compile Include="Easy\2114-maximum-number-of-words-found-in-sentences.cs" />
     <Compile Include="Easy\217ContainsDuplicate.cs" />
     <Compile Include="Easy\2418SortThePeople.cs" />
