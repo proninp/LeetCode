@@ -69,6 +69,7 @@
     <Compile Include="Easy\2114-maximum-number-of-words-found-in-sentences.cs" />
     <Compile Include="Easy\2125NumberOfLaserBeamsInABank.cs" />
     <Compile Include="Easy\217ContainsDuplicate.cs" />
+    <Compile Include="Easy\2185CountingWordsWithAGivenPrefix.cs" />
     <Compile Include="Easy\2418SortThePeople.cs" />
     <Compile Include="Easy\242ValidAnagram.cs" />
     <Compile Include="Easy\2574LeftAndRightSumDifferences.cs" />
