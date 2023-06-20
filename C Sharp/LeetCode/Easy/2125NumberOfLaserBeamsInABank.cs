@@ -37,7 +37,6 @@ namespace LeetCode.Easy
                     beams += curr * prev;
                     prev = curr;
                 }
-                    
             }
             return beams;
         }

@@ -12,9 +12,10 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] array = { 1 };
-            var ans = _347TopKFrequentElements.TopKFrequent2(array, 1);
-            PrintArray(ans);
+            var words = new string[] { "abc", "deq", "mee", "aqq", "dkd", "ccc" };
+            var pattern = "abb";
+            var ans = _890FindAndReplacePattern.FindAndReplacePattern(words, pattern);
+            Console.WriteLine(string.Join(", ", ans.ToArray()));
             Console.ReadLine();
         }
         static string PrintArray(int[] a)
