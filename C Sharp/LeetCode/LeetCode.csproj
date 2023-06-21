@@ -116,6 +116,7 @@
     <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
     <Compile Include="Medium\347TopKFrequentElements.cs" />
     <Compile Include="Medium\49-group-anagrams.cs" />
+    <Compile Include="Medium\811SubdomainVisitCount.cs" />
     <Compile Include="Medium\890FindAndReplacePattern.cs" />
     <Compile Include="Medium\912SortAnArray.cs" />
     <Compile Include="Medium\Longest_Substring_Without_Repeating_Characters.cs" />
