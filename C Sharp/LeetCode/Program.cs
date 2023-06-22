@@ -12,10 +12,18 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var words = new string[] { "abc", "deq", "mee", "aqq", "dkd", "ccc" };
-            var pattern = "abb";
-            var ans = _890FindAndReplacePattern.FindAndReplacePattern(words, pattern);
-            Console.WriteLine(string.Join(", ", ans.ToArray()));
+            var orders = new List<List<string>>()
+            {
+                new List<string>() { "David","3","Ceviche" },
+                new List<string>() { "Corina","10","Beef Burrito" },
+                new List<string>() { "David","3","Fried Chicken" },
+                new List<string>() { "Carla","5","Water" },
+                new List<string>() { "Carla", "5", "Ceviche" },
+                new List<string>() { "Rous", "3", "Ceviche" }
+            };
+
+            _1418DisplayTableOfFoodOrdersInARestaurant.DisplayTable(orders);
+            //Console.WriteLine(string.Join(", ", ans.ToArray()));
             Console.ReadLine();
         }
         static string PrintArray(int[] a)
