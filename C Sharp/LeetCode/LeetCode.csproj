@@ -91,6 +91,7 @@
     <Compile Include="Easy\724FindPivotIndex.cs" />
     <Compile Include="Easy\804UniqueMorseCodeWords.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
+    <Compile Include="Easy\944DeleteColumnsToMakeSorted.cs" />
     <Compile Include="Easy\Add_Binary.cs" />
     <Compile Include="Easy\BinaryTreeInorderTraversal.cs" />
     <Compile Include="Easy\Climbing_Stairs.cs" />
