@@ -35,5 +35,25 @@ namespace LeetCode.Medium
             }
             return pairs;
         }
+        public int NumOfPairs2(string[] nums, string target)
+        {
+            int pairs = 0;
+            var map = new Dictionary<string, int>(nums.Length);
+            foreach(string s in nums)
+            {
+                if (!map.ContainsKey(s))
+                    map.Add(s, 1);
+                else
+                    map[s]++;
+            }
+            for (int i = 1; i < target.Length; i++)
+            {
+                string left = target.Substring(0, i);
+                string right = target.Substring(i);
+                if (map.ContainsKey(left) && map.ContainsKey(right))
+                    pairs += map[left] * (map[right] - (left.Equals(right) ? 1 : 0));
+            }
+            return pairs;
+        }
     }
 }
