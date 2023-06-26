@@ -119,6 +119,7 @@
     <Compile Include="Easy\Valid_Parentheses.cs" />
     <Compile Include="Medium\1418DisplayTableOfFoodOrdersInARestaurant.cs" />
     <Compile Include="Medium\2023NumberOfPairsOfStringsWithConcatenationEqualToTarget.cs" />
+    <Compile Include="Medium\238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
     <Compile Include="Medium\347TopKFrequentElements.cs" />
     <Compile Include="Medium\49-group-anagrams.cs" />
