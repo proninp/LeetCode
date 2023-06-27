@@ -12,17 +12,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var orders = new List<List<string>>()
-            {
-                new List<string>() { "David","3","Ceviche" },
-                new List<string>() { "Corina","10","Beef Burrito" },
-                new List<string>() { "David","3","Fried Chicken" },
-                new List<string>() { "Carla","5","Water" },
-                new List<string>() { "Carla", "5", "Ceviche" },
-                new List<string>() { "Rous", "3", "Ceviche" }
-            };
-
-            _1418DisplayTableOfFoodOrdersInARestaurant.DisplayTable(orders);
+            var a = _821ShortestDistanceToACharacter.ShortestToChar("bbba", 'b');
             //Console.WriteLine(string.Join(", ", ans.ToArray()));
             Console.ReadLine();
         }
