@@ -72,6 +72,7 @@
     <Compile Include="Easy\217ContainsDuplicate.cs" />
     <Compile Include="Easy\2185CountingWordsWithAGivenPrefix.cs" />
     <Compile Include="Easy\2255CountPrefixesOfAGivenString.cs" />
+    <Compile Include="Easy\2399CheckDistancesBetweenSameLetters.cs" />
     <Compile Include="Easy\2418SortThePeople.cs" />
     <Compile Include="Easy\242ValidAnagram.cs" />
     <Compile Include="Easy\2496MaximumValueOfAStringInAnArray.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Easy\804UniqueMorseCodeWords.cs" />
     <Compile Include="Easy\821ShortestDistanceToACharacter.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
+    <Compile Include="Easy\942DIStringMatch.cs" />
     <Compile Include="Easy\944DeleteColumnsToMakeSorted.cs" />
     <Compile Include="Easy\Add_Binary.cs" />
     <Compile Include="Easy\BinaryTreeInorderTraversal.cs" />
@@ -128,6 +130,7 @@
     <Compile Include="Medium\49-group-anagrams.cs" />
     <Compile Include="Medium\811SubdomainVisitCount.cs" />
     <Compile Include="Medium\890FindAndReplacePattern.cs" />
+    <Compile Include="Medium\893GroupsOfSpecialEquivalentStrings.cs" />
     <Compile Include="Medium\912SortAnArray.cs" />
     <Compile Include="Medium\Longest_Substring_Without_Repeating_Characters.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
