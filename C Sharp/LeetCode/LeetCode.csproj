@@ -77,6 +77,7 @@
     <Compile Include="Easy\2418SortThePeople.cs" />
     <Compile Include="Easy\242ValidAnagram.cs" />
     <Compile Include="Easy\2496MaximumValueOfAStringInAnArray.cs" />
+    <Compile Include="Easy\2506CountPairsOfSimilarStrings.cs" />
     <Compile Include="Easy\2574LeftAndRightSumDifferences.cs" />
     <Compile Include="Easy\2586CountTheNumberOfVowelStringsInRange.cs" />
     <Compile Include="Easy\2678NumberOfSeniorCitizens.cs" />
