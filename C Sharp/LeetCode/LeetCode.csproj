@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Common\ListNode.cs" />
     <Compile Include="Common\TreeNode.cs" />
+    <Compile Include="Easy\1002FindCommonCharacters.cs" />
     <Compile Include="Easy\118-pascals-triangle.cs" />
     <Compile Include="Easy\1189MaximumNumberOfBalloons.cs" />
     <Compile Include="Easy\1299ReplaceElementsWithGreatestElementOnRightSide.cs" />
