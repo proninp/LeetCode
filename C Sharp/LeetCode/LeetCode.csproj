@@ -100,6 +100,7 @@
     <Compile Include="Easy\706DesignHashMap.cs" />
     <Compile Include="Easy\724FindPivotIndex.cs" />
     <Compile Include="Easy\804UniqueMorseCodeWords.cs" />
+    <Compile Include="Easy\806NumberOfLinesToWriteString.cs" />
     <Compile Include="Easy\821ShortestDistanceToACharacter.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
     <Compile Include="Easy\942DIStringMatch.cs" />
