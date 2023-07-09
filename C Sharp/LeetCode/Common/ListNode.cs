@@ -15,5 +15,16 @@ namespace LeetCode.Common
             this.val = val;
             this.next = next;
         }
+        void PrintList()
+        {
+            if (this == null)
+                Console.WriteLine("[]");
+            ListNode current = this;
+            while (current != null)
+            {
+                Console.Write($"[{current.val}] ");
+                current = current.next;
+            }
+        }
     }
 }

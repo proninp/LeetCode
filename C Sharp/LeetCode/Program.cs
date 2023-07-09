@@ -12,34 +12,24 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var a = _821ShortestDistanceToACharacter.ShortestToChar("bbba", 'b');
-            //Console.WriteLine(string.Join(", ", ans.ToArray()));
+
+            var sudokuBoard = new char[][]
+            {
+                new char[] { '5','3','.','.','7','.','.','.','.' },
+                new char[] { '6','.','.','1','9','5','.','.','.' },
+                new char[] { '.','9','8','.','.','.','.','6','.' },
+                new char[] { '8','.','.','.','6','.','.','.','3' },
+                new char[] { '4','.','.','8','.','3','.','.','1' },
+                new char[] { '7','.','.','.','2','.','.','.','6' },
+                new char[] { '.','6','.','.','.','.','2','8','.' },
+                new char[] { '.','.','.','4','1','9','.','.','5' },
+                new char[] { '.','.','.','.','8','.','.','7','9' }
+            };
+
+            var a = _36ValidSudoku.IsValidSudoku(sudokuBoard);
+            Console.WriteLine(a);
             Console.ReadLine();
         }
-        static string PrintArray(int[] a)
-        {
-            StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.Append("[");
-            foreach (var e in a)
-            {
-                if (stringBuilder.Length > 1)
-                    stringBuilder.Append(", ");
-                stringBuilder.Append(string.Format($"{e}", e.ToString()));
-            }
-            stringBuilder.Append("]");
-            Console.WriteLine(stringBuilder.ToString());
-            return stringBuilder.ToString();
-        }
-        static void PrintList(ListNode listNode)
-        {
-            if (listNode == null)
-                Console.WriteLine("[]");
-            ListNode current = listNode;
-            while(current != null)
-            {
-                Console.Write($"[{current.val}] ");
-                current = current.next;
-            }    
-        }
+        
     }
 }
