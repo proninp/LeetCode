@@ -52,6 +52,7 @@
     <Compile Include="Easy\1299ReplaceElementsWithGreatestElementOnRightSide.cs" />
     <Compile Include="Easy\1408StringMatchingInAnArray.cs" />
     <Compile Include="Easy\1431KidsWithTheGreatestNumberOfCandies.cs" />
+    <Compile Include="Easy\144BinaryTreePreorderTraversal.cs" />
     <Compile Include="Easy\1470ShuffleTheArray.cs" />
     <Compile Include="Easy\1512NumberOfGoodPairs.cs" />
     <Compile Include="Easy\1528ShuffleString.cs" />
