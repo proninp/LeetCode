@@ -113,6 +113,7 @@
     <Compile Include="Easy\806NumberOfLinesToWriteString.cs" />
     <Compile Include="Easy\821ShortestDistanceToACharacter.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
+    <Compile Include="Easy\938RangeSumOfBST.cs" />
     <Compile Include="Easy\942DIStringMatch.cs" />
     <Compile Include="Easy\944DeleteColumnsToMakeSorted.cs" />
     <Compile Include="Easy\Add_Binary.cs" />
