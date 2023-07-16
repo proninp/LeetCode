@@ -18,8 +18,12 @@ namespace LeetCode.Easy
         {
             if (root == null)
                 return 0;
-            return (root.val >= low && root.val <= high ? root.val : 0) +
-                RangeSumBST(root.left, low, high) + RangeSumBST(root.right, low, high);
+            int sum = root.val >= low && root.val <= high ? root.val : 0;
+            if (root.val > low)
+                sum += RangeSumBST(root.left, low, high);
+            if (root.val < high)
+                sum += RangeSumBST(root.right, low, high);
+            return sum;
         }
     }
 }
