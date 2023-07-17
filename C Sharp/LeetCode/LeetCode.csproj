@@ -143,6 +143,7 @@
     <Compile Include="Medium\1038BinarySearchTreeToGreaterSumTree.cs" />
     <Compile Include="Medium\128LongestConsecutiveSequence.cs" />
     <Compile Include="Medium\1302DeepestLeavesSum.cs" />
+    <Compile Include="Medium\1315SumOfNodesWithEvenValuedGrandparent.cs" />
     <Compile Include="Medium\1418DisplayTableOfFoodOrdersInARestaurant.cs" />
     <Compile Include="Medium\1807EvaluateTheBracketPairsOfAString.cs" />
     <Compile Include="Medium\2023NumberOfPairsOfStringsWithConcatenationEqualToTarget.cs" />
