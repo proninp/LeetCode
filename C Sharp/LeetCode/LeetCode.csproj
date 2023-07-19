@@ -105,6 +105,7 @@
     <Compile Include="Easy\500KeyboardRow.cs" />
     <Compile Include="Easy\58LengthOfLastWord.cs" />
     <Compile Include="Easy\605-can-place-flowers.cs" />
+    <Compile Include="Easy\617MergeTwoBinaryTrees.cs" />
     <Compile Include="Easy\682BaseballGame.cs" />
     <Compile Include="Easy\705DesignHashSet.cs" />
     <Compile Include="Easy\706DesignHashMap.cs" />
