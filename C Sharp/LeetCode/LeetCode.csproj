@@ -155,6 +155,7 @@
     <Compile Include="Medium\36ValidSudoku.cs" />
     <Compile Include="Medium\3LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="Medium\49-group-anagrams.cs" />
+    <Compile Include="Medium\5LongestPalindromicSubstring.cs" />
     <Compile Include="Medium\811SubdomainVisitCount.cs" />
     <Compile Include="Medium\890FindAndReplacePattern.cs" />
     <Compile Include="Medium\893GroupsOfSpecialEquivalentStrings.cs" />
