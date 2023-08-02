@@ -97,6 +97,7 @@
     <Compile Include="Easy\268MissingNumber.cs" />
     <Compile Include="Easy\26RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Easy\2744FindMaximumNumberOfStringPairs.cs" />
+    <Compile Include="Easy\2798NumberOfEmployeesWhoMetTheTarget.cs" />
     <Compile Include="Easy\27RemoveElement.cs" />
     <Compile Include="Easy\290WordPattern.cs" />
     <Compile Include="Easy\303RangeSumQueryImmutable.cs" />
