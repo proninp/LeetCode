@@ -61,6 +61,7 @@
     <Compile Include="Easy\1512NumberOfGoodPairs.cs" />
     <Compile Include="Easy\1528ShuffleString.cs" />
     <Compile Include="Easy\1598CrawlerLogFolder.cs" />
+    <Compile Include="Easy\1603DesignParkingSystem.cs" />
     <Compile Include="Easy\1629SlowestKey.cs" />
     <Compile Include="Easy\1662CheckIfTwoStringArraysAreEquivalent.cs" />
     <Compile Include="Easy\1672RichestCustomerWealth.cs" />
