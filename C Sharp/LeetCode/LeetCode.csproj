@@ -88,6 +88,7 @@
     <Compile Include="Easy\226InvertBinaryTree.cs" />
     <Compile Include="Easy\2273FindResultantArrayAfterRemovingAnagrams.cs" />
     <Compile Include="Easy\2399CheckDistancesBetweenSameLetters.cs" />
+    <Compile Include="Easy\2413SmallestEvenMultiple.cs" />
     <Compile Include="Easy\2418SortThePeople.cs" />
     <Compile Include="Easy\242ValidAnagram.cs" />
     <Compile Include="Easy\2451OddStringDifference.cs" />
