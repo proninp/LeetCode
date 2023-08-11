@@ -52,6 +52,7 @@
     <Compile Include="Easy\118-pascals-triangle.cs" />
     <Compile Include="Easy\1189MaximumNumberOfBalloons.cs" />
     <Compile Include="Easy\119PascalsTriangleII.cs" />
+    <Compile Include="Easy\1221SplitAStringInBalancedStrings.cs" />
     <Compile Include="Easy\1299ReplaceElementsWithGreatestElementOnRightSide.cs" />
     <Compile Include="Easy\1379FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs" />
     <Compile Include="Easy\1408StringMatchingInAnArray.cs" />
