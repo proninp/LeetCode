@@ -69,6 +69,7 @@
     <Compile Include="Easy\1672RichestCustomerWealth.cs" />
     <Compile Include="Easy\1684CountTheNumberOfConsistentStrings.cs" />
     <Compile Include="Easy\169-majority-element.cs" />
+    <Compile Include="Easy\1720DecodeXORedArray.cs" />
     <Compile Include="Easy\1769MinimumNumberOfOperationsToMoveAllBallsToEachBox.cs" />
     <Compile Include="Easy\1773CountItemsMatchingARule.cs" />
     <Compile Include="Easy\1816TruncateSentence.cs" />
