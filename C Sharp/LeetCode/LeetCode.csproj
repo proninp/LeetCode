@@ -86,6 +86,7 @@
     <Compile Include="Easy\2125NumberOfLaserBeamsInABank.cs" />
     <Compile Include="Easy\217ContainsDuplicate.cs" />
     <Compile Include="Easy\2185CountingWordsWithAGivenPrefix.cs" />
+    <Compile Include="Easy\2235AddTwoIntegers.cs" />
     <Compile Include="Easy\2236RootEqualsSumOfChildren.cs" />
     <Compile Include="Easy\2255CountPrefixesOfAGivenString.cs" />
     <Compile Include="Easy\226InvertBinaryTree.cs" />
