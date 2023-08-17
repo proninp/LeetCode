@@ -85,6 +85,7 @@
     <Compile Include="Easy\2108FindFirstPalindromicStringInTheArray.cs" />
     <Compile Include="Easy\2114-maximum-number-of-words-found-in-sentences.cs" />
     <Compile Include="Easy\2125NumberOfLaserBeamsInABank.cs" />
+    <Compile Include="Easy\2160MinimumSumOfFourDigitNumberAfterSplittingDigits.cs" />
     <Compile Include="Easy\217ContainsDuplicate.cs" />
     <Compile Include="Easy\2185CountingWordsWithAGivenPrefix.cs" />
     <Compile Include="Easy\2235AddTwoIntegers.cs" />
