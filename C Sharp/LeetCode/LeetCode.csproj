@@ -68,6 +68,7 @@
     <Compile Include="Easy\1629SlowestKey.cs" />
     <Compile Include="Easy\1662CheckIfTwoStringArraysAreEquivalent.cs" />
     <Compile Include="Easy\1672RichestCustomerWealth.cs" />
+    <Compile Include="Easy\1678GoalParserInterpretation.cs" />
     <Compile Include="Easy\1684CountTheNumberOfConsistentStrings.cs" />
     <Compile Include="Easy\169-majority-element.cs" />
     <Compile Include="Easy\1720DecodeXORedArray.cs" />
