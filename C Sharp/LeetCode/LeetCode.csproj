@@ -104,6 +104,7 @@
     <Compile Include="Easy\2506CountPairsOfSimilarStrings.cs" />
     <Compile Include="Easy\2574LeftAndRightSumDifferences.cs" />
     <Compile Include="Easy\2586CountTheNumberOfVowelStringsInRange.cs" />
+    <Compile Include="Easy\2652SumMultiples.cs" />
     <Compile Include="Easy\2678NumberOfSeniorCitizens.cs" />
     <Compile Include="Easy\268MissingNumber.cs" />
     <Compile Include="Easy\26RemoveDuplicatesFromSortedArray.cs" />
