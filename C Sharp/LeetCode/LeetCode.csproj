@@ -169,6 +169,7 @@
     <Compile Include="Medium\2265CountNodesEqualToAverageOfSubtree.cs" />
     <Compile Include="Medium\238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
+    <Compile Include="Medium\2807InsertGreatestCommonDivisorsInLinkedList.cs" />
     <Compile Include="Medium\347TopKFrequentElements.cs" />
     <Compile Include="Medium\36ValidSudoku.cs" />
     <Compile Include="Medium\3LongestSubstringWithoutRepeatingCharacters.cs" />
