@@ -61,6 +61,7 @@
     <Compile Include="Easy\144BinaryTreePreorderTraversal.cs" />
     <Compile Include="Easy\1470ShuffleTheArray.cs" />
     <Compile Include="Easy\1480RunningSumOf1dArray.cs" />
+    <Compile Include="Easy\1486XOROperationInAnArray.cs" />
     <Compile Include="Easy\1512NumberOfGoodPairs.cs" />
     <Compile Include="Easy\1528ShuffleString.cs" />
     <Compile Include="Easy\1598CrawlerLogFolder.cs" />
