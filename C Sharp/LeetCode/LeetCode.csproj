@@ -53,6 +53,7 @@
     <Compile Include="Easy\1189MaximumNumberOfBalloons.cs" />
     <Compile Include="Easy\119PascalsTriangleII.cs" />
     <Compile Include="Easy\1221SplitAStringInBalancedStrings.cs" />
+    <Compile Include="Easy\1281SubtractTheProductAndSumOfDigitsOfAnInteger.cs" />
     <Compile Include="Easy\1299ReplaceElementsWithGreatestElementOnRightSide.cs" />
     <Compile Include="Easy\1365HowManyNumbersAreSmallerThanTheCurrentNumber.cs" />
     <Compile Include="Easy\1379FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs" />
