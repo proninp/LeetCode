@@ -114,6 +114,7 @@
     <Compile Include="Easy\2769FindTheMaximumAchievableNumber.cs" />
     <Compile Include="Easy\2798NumberOfEmployeesWhoMetTheTarget.cs" />
     <Compile Include="Easy\27RemoveElement.cs" />
+    <Compile Include="Easy\2824CountPairsWhoseSumIsLessThanTarget.cs" />
     <Compile Include="Easy\290WordPattern.cs" />
     <Compile Include="Easy\303RangeSumQueryImmutable.cs" />
     <Compile Include="Easy\392IsSubsequence.cs" />
