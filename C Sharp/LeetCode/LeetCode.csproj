@@ -53,7 +53,7 @@
     <Compile Include="Easy\1189MaximumNumberOfBalloons.cs" />
     <Compile Include="Easy\119PascalsTriangleII.cs" />
     <Compile Include="Easy\1221SplitAStringInBalancedStrings.cs" />
-    <Compile Include="Easy\1281SubtractTheProductAndSumOfDigitsOfAnInteger.cs" />
+    <Compile Include="Easy\1290СonvertBinaryNumberInALinkedListToInteger.cs" />
     <Compile Include="Easy\1299ReplaceElementsWithGreatestElementOnRightSide.cs" />
     <Compile Include="Easy\1365HowManyNumbersAreSmallerThanTheCurrentNumber.cs" />
     <Compile Include="Easy\1379FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs" />
@@ -62,7 +62,6 @@
     <Compile Include="Easy\144BinaryTreePreorderTraversal.cs" />
     <Compile Include="Easy\1470ShuffleTheArray.cs" />
     <Compile Include="Easy\1480RunningSumOf1dArray.cs" />
-    <Compile Include="Easy\1486XOROperationInAnArray.cs" />
     <Compile Include="Easy\1512NumberOfGoodPairs.cs" />
     <Compile Include="Easy\1528ShuffleString.cs" />
     <Compile Include="Easy\1598CrawlerLogFolder.cs" />
@@ -70,7 +69,6 @@
     <Compile Include="Easy\1629SlowestKey.cs" />
     <Compile Include="Easy\1662CheckIfTwoStringArraysAreEquivalent.cs" />
     <Compile Include="Easy\1672RichestCustomerWealth.cs" />
-    <Compile Include="Easy\1678GoalParserInterpretation.cs" />
     <Compile Include="Easy\1684CountTheNumberOfConsistentStrings.cs" />
     <Compile Include="Easy\169-majority-element.cs" />
     <Compile Include="Easy\1720DecodeXORedArray.cs" />
@@ -88,7 +86,6 @@
     <Compile Include="Easy\2108FindFirstPalindromicStringInTheArray.cs" />
     <Compile Include="Easy\2114-maximum-number-of-words-found-in-sentences.cs" />
     <Compile Include="Easy\2125NumberOfLaserBeamsInABank.cs" />
-    <Compile Include="Easy\2160MinimumSumOfFourDigitNumberAfterSplittingDigits.cs" />
     <Compile Include="Easy\217ContainsDuplicate.cs" />
     <Compile Include="Easy\2185CountingWordsWithAGivenPrefix.cs" />
     <Compile Include="Easy\2235AddTwoIntegers.cs" />
@@ -106,7 +103,6 @@
     <Compile Include="Easy\2506CountPairsOfSimilarStrings.cs" />
     <Compile Include="Easy\2574LeftAndRightSumDifferences.cs" />
     <Compile Include="Easy\2586CountTheNumberOfVowelStringsInRange.cs" />
-    <Compile Include="Easy\2652SumMultiples.cs" />
     <Compile Include="Easy\2678NumberOfSeniorCitizens.cs" />
     <Compile Include="Easy\268MissingNumber.cs" />
     <Compile Include="Easy\26RemoveDuplicatesFromSortedArray.cs" />
@@ -114,7 +110,6 @@
     <Compile Include="Easy\2769FindTheMaximumAchievableNumber.cs" />
     <Compile Include="Easy\2798NumberOfEmployeesWhoMetTheTarget.cs" />
     <Compile Include="Easy\27RemoveElement.cs" />
-    <Compile Include="Easy\2824CountPairsWhoseSumIsLessThanTarget.cs" />
     <Compile Include="Easy\290WordPattern.cs" />
     <Compile Include="Easy\303RangeSumQueryImmutable.cs" />
     <Compile Include="Easy\392IsSubsequence.cs" />
@@ -130,7 +125,6 @@
     <Compile Include="Easy\706DesignHashMap.cs" />
     <Compile Include="Easy\724FindPivotIndex.cs" />
     <Compile Include="Easy\748ShortestCompletingWord.cs" />
-    <Compile Include="Easy\771JewelsAndStones.cs" />
     <Compile Include="Easy\804UniqueMorseCodeWords.cs" />
     <Compile Include="Easy\806NumberOfLinesToWriteString.cs" />
     <Compile Include="Easy\821ShortestDistanceToACharacter.cs" />
@@ -166,14 +160,11 @@
     <Compile Include="Medium\1302DeepestLeavesSum.cs" />
     <Compile Include="Medium\1315SumOfNodesWithEvenValuedGrandparent.cs" />
     <Compile Include="Medium\1418DisplayTableOfFoodOrdersInARestaurant.cs" />
-    <Compile Include="Medium\1476SubrectangleQueries.cs" />
-    <Compile Include="Medium\1689PartitioningIntoMinimumNumberOfDeciBinaryNumbers.cs" />
     <Compile Include="Medium\1807EvaluateTheBracketPairsOfAString.cs" />
     <Compile Include="Medium\2023NumberOfPairsOfStringsWithConcatenationEqualToTarget.cs" />
     <Compile Include="Medium\2265CountNodesEqualToAverageOfSubtree.cs" />
     <Compile Include="Medium\238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
-    <Compile Include="Medium\2807InsertGreatestCommonDivisorsInLinkedList.cs" />
     <Compile Include="Medium\347TopKFrequentElements.cs" />
     <Compile Include="Medium\36ValidSudoku.cs" />
     <Compile Include="Medium\3LongestSubstringWithoutRepeatingCharacters.cs" />
