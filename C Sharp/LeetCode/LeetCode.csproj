@@ -162,6 +162,7 @@
     <Compile Include="Medium\1418DisplayTableOfFoodOrdersInARestaurant.cs" />
     <Compile Include="Medium\1807EvaluateTheBracketPairsOfAString.cs" />
     <Compile Include="Medium\2023NumberOfPairsOfStringsWithConcatenationEqualToTarget.cs" />
+    <Compile Include="Medium\2181MergeNodesInBetweenZeros.cs" />
     <Compile Include="Medium\2265CountNodesEqualToAverageOfSubtree.cs" />
     <Compile Include="Medium\238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
