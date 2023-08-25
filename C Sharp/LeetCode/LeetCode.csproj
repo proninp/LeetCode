@@ -128,6 +128,7 @@
     <Compile Include="Easy\804UniqueMorseCodeWords.cs" />
     <Compile Include="Easy\806NumberOfLinesToWriteString.cs" />
     <Compile Include="Easy\821ShortestDistanceToACharacter.cs" />
+    <Compile Include="Easy\876MiddleOfTheLinkedList.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
     <Compile Include="Easy\938RangeSumOfBST.cs" />
     <Compile Include="Easy\942DIStringMatch.cs" />
