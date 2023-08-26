@@ -82,6 +82,7 @@
     <Compile Include="Easy\2011FinalValueOfVariableAfterPerformingOperations.cs" />
     <Compile Include="Easy\205-Isomorphic-Strings.cs" />
     <Compile Include="Easy\2053KthDistinctStringInAnArray.cs" />
+    <Compile Include="Easy\206ReverseLinkedList.cs" />
     <Compile Include="Easy\2085CountCommonWordsWithOneOccurrence.cs" />
     <Compile Include="Easy\2108FindFirstPalindromicStringInTheArray.cs" />
     <Compile Include="Easy\2114-maximum-number-of-words-found-in-sentences.cs" />
