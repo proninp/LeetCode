@@ -81,6 +81,7 @@
     <Compile Include="Easy\1991FindTheMiddleIndexInArray.cs" />
     <Compile Include="Easy\1Two Sum.cs" />
     <Compile Include="Easy\2011FinalValueOfVariableAfterPerformingOperations.cs" />
+    <Compile Include="Easy\203RemoveLinkedListElements.cs" />
     <Compile Include="Easy\205-Isomorphic-Strings.cs" />
     <Compile Include="Easy\2053KthDistinctStringInAnArray.cs" />
     <Compile Include="Easy\206ReverseLinkedList.cs" />
