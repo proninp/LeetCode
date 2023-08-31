@@ -170,6 +170,7 @@
     <Compile Include="Medium\2130MaximumTwinSumOfALinkedList.cs" />
     <Compile Include="Medium\2181MergeNodesInBetweenZeros.cs" />
     <Compile Include="Medium\2265CountNodesEqualToAverageOfSubtree.cs" />
+    <Compile Include="Medium\237DeleteNodeInALinkedList.cs" />
     <Compile Include="Medium\238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
     <Compile Include="Medium\347TopKFrequentElements.cs" />
