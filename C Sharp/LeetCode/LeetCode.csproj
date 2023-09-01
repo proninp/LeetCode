@@ -116,6 +116,7 @@
     <Compile Include="Easy\27RemoveElement.cs" />
     <Compile Include="Easy\290WordPattern.cs" />
     <Compile Include="Easy\303RangeSumQueryImmutable.cs" />
+    <Compile Include="Easy\338CountingBits.cs" />
     <Compile Include="Easy\392IsSubsequence.cs" />
     <Compile Include="Easy\404SumOfLeftLeaves.cs" />
     <Compile Include="Easy\448FindAllNumbersDisappearedInAnArray.cs" />

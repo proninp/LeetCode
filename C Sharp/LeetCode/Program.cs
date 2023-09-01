@@ -8,7 +8,6 @@ namespace LeetCode
         static void Main(string[] args)
         {
             var s = "babad";
-
             var a = _5LongestPalindromicSubstring.LongestPalindrome(s);
             Console.WriteLine(a);
             Console.ReadLine();
