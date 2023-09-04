@@ -55,6 +55,7 @@
     <Compile Include="Easy\1221SplitAStringInBalancedStrings.cs" />
     <Compile Include="Easy\1290СonvertBinaryNumberInALinkedListToInteger.cs" />
     <Compile Include="Easy\1299ReplaceElementsWithGreatestElementOnRightSide.cs" />
+    <Compile Include="Easy\1313DecompressRunLengthEncodedList.cs" />
     <Compile Include="Easy\1365HowManyNumbersAreSmallerThanTheCurrentNumber.cs" />
     <Compile Include="Easy\1379FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs" />
     <Compile Include="Easy\1408StringMatchingInAnArray.cs" />
