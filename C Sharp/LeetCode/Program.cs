@@ -1,4 +1,5 @@
-﻿using LeetCode.Medium;
+﻿using LeetCode.Common;
+using LeetCode.Medium;
 using System;
 using System.Collections.Generic;
 using System.Security.Policy;
@@ -9,22 +10,15 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var urls = new string[] { "leetcode.com", "google.com", "facebook.com", "youtube.com" };
-            BrowserHistory obj = new BrowserHistory(urls[0]);
-            obj.Visit(urls[1]);
-            obj.Visit(urls[2]);
-            obj.Visit(urls[3]);
-            var list = new List<string>();
-            list.Add(obj.Back(1));
-            list.Add(obj.Back(1));
-            list.Add(obj.Forward(1));
-            obj.Visit(urls[0]);
-            list.Add(obj.Forward(2));
-            list.Add(obj.Back(2));
-            list.Add(obj.Back(7));
-            
-            foreach(var url in list)
-                Console.WriteLine(url);
+            ListNode root = new ListNode(1);
+            var node = root;
+            for (int i = 2; i <= 10; i++)
+            {
+                node.next = new ListNode(i);
+                node = node.next;
+            }
+
+            _725SplitLinkedListInParts.SplitListToParts(root, 3);
 
             Console.ReadLine();
         }
