@@ -189,6 +189,7 @@
     <Compile Include="Medium\890FindAndReplacePattern.cs" />
     <Compile Include="Medium\893GroupsOfSpecialEquivalentStrings.cs" />
     <Compile Include="Medium\912SortAnArray.cs" />
+    <Compile Include="Medium\92ReverseLinkedListII.cs" />
     <Compile Include="Medium\Longest_Substring_Without_Repeating_Characters.cs" />
     <Compile Include="Medium\RemoveDuplicatesFromSortedListII.cs" />
     <Compile Include="Program.cs" />
