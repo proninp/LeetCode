@@ -178,6 +178,7 @@
     <Compile Include="Medium\237DeleteNodeInALinkedList.cs" />
     <Compile Include="Medium\238ProductOfArrayExceptSelf.cs" />
     <Compile Include="Medium\2391MinimumAmountOfTimeToCollectGarbage.cs" />
+    <Compile Include="Medium\2AddTwoNumbers.cs" />
     <Compile Include="Medium\347TopKFrequentElements.cs" />
     <Compile Include="Medium\36ValidSudoku.cs" />
     <Compile Include="Medium\39CombinationSum.cs" />

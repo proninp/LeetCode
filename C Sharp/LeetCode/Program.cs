@@ -10,16 +10,30 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            ListNode root = new ListNode(1);
-            var node = root;
-            for (int i = 2; i <= 10; i++)
-            {
-                node.next = new ListNode(i);
-                node = node.next;
-            }
+            ListNode l1 = new ListNode(9);
+            
+            
+            ListNode l2 = new ListNode(1);
+            var node = l2;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
+            node = node.next;
+            node.next = new ListNode(9);
 
-            _725SplitLinkedListInParts.SplitListToParts(root, 3);
-
+            var ans = _2AddTwoNumbers.AddTwoNumbers(l1, l2);
             Console.ReadLine();
         }
 
