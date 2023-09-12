@@ -185,6 +185,7 @@
     <Compile Include="Medium\3LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="Medium\49-group-anagrams.cs" />
     <Compile Include="Medium\5LongestPalindromicSubstring.cs" />
+    <Compile Include="Medium\61RotateList.cs" />
     <Compile Include="Medium\62UniquePaths.cs" />
     <Compile Include="Medium\725SplitLinkedListInParts.cs" />
     <Compile Include="Medium\75SortColors.cs" />
