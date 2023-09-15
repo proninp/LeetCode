@@ -53,6 +53,7 @@
     <Compile Include="Easy\1189MaximumNumberOfBalloons.cs" />
     <Compile Include="Easy\118PascalsTriangle.cs" />
     <Compile Include="Easy\119PascalsTriangleII.cs" />
+    <Compile Include="Easy\121BestTimeToBuyAndSellStock.cs" />
     <Compile Include="Easy\1221SplitAStringInBalancedStrings.cs" />
     <Compile Include="Easy\1290СonvertBinaryNumberInALinkedListToInteger.cs" />
     <Compile Include="Easy\1299ReplaceElementsWithGreatestElementOnRightSide.cs" />
