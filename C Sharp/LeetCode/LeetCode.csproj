@@ -78,6 +78,7 @@
     <Compile Include="Easy\1720DecodeXORedArray.cs" />
     <Compile Include="Easy\1769MinimumNumberOfOperationsToMoveAllBallsToEachBox.cs" />
     <Compile Include="Easy\1773CountItemsMatchingARule.cs" />
+    <Compile Include="Easy\1791FindCenterOfStarGraph.cs" />
     <Compile Include="Easy\1816TruncateSentence.cs" />
     <Compile Include="Easy\1920BuildArrayFromPermutation.cs" />
     <Compile Include="Easy\1929ConcatenationOfArray.cs" />
