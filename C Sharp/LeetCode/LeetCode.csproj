@@ -122,6 +122,7 @@
     <Compile Include="Easy\2769FindTheMaximumAchievableNumber.cs" />
     <Compile Include="Easy\2798NumberOfEmployeesWhoMetTheTarget.cs" />
     <Compile Include="Easy\27RemoveElement.cs" />
+    <Compile Include="Easy\283MoveZeroes.cs" />
     <Compile Include="Easy\28FindTheIndexOfTheFirstOccurrenceInAString.cs" />
     <Compile Include="Easy\290WordPattern.cs" />
     <Compile Include="Easy\303RangeSumQueryImmutable.cs" />
