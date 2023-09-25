@@ -180,6 +180,7 @@
     <Compile Include="Medium\138CopyListWithRandomPointer.cs" />
     <Compile Include="Medium\1418DisplayTableOfFoodOrdersInARestaurant.cs" />
     <Compile Include="Medium\1472DesignBrowserHistory.cs" />
+    <Compile Include="Medium\15_3Sum.cs" />
     <Compile Include="Medium\167TwoSumII-InputArrayIsSorted.cs" />
     <Compile Include="Medium\1807EvaluateTheBracketPairsOfAString.cs" />
     <Compile Include="Medium\2023NumberOfPairsOfStringsWithConcatenationEqualToTarget.cs" />
