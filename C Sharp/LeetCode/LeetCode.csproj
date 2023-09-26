@@ -82,6 +82,7 @@
     <Compile Include="Easy\1773CountItemsMatchingARule.cs" />
     <Compile Include="Easy\1791FindCenterOfStarGraph.cs" />
     <Compile Include="Easy\1816TruncateSentence.cs" />
+    <Compile Include="Easy\1822SignOfTheProductOfAnArray.cs" />
     <Compile Include="Easy\1920BuildArrayFromPermutation.cs" />
     <Compile Include="Easy\1929ConcatenationOfArray.cs" />
     <Compile Include="Easy\1984MinimumDifferenceBetweenHighestAndLowestOfKScores.cs" />
