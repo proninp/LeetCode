@@ -175,6 +175,7 @@
     <Compile Include="Easy\Two_Sum.cs" />
     <Compile Include="Easy\Valid_Parentheses.cs" />
     <Compile Include="Medium\1038BinarySearchTreeToGreaterSumTree.cs" />
+    <Compile Include="Medium\11ContainerWithMostWater.cs" />
     <Compile Include="Medium\128LongestConsecutiveSequence.cs" />
     <Compile Include="Medium\1302DeepestLeavesSum.cs" />
     <Compile Include="Medium\1315SumOfNodesWithEvenValuedGrandparent.cs" />
