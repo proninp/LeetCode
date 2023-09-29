@@ -147,6 +147,7 @@
     <Compile Include="Easy\806NumberOfLinesToWriteString.cs" />
     <Compile Include="Easy\821ShortestDistanceToACharacter.cs" />
     <Compile Include="Easy\876MiddleOfTheLinkedList.cs" />
+    <Compile Include="Easy\896MonotonicArray.cs" />
     <Compile Include="Easy\905SortArrayByParity.cs" />
     <Compile Include="Easy\929-unique-email-addresses.cs" />
     <Compile Include="Easy\938RangeSumOfBST.cs" />
