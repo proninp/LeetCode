@@ -20,10 +20,7 @@ namespace LeetCode.Medium
             for (int r = 0; r < s.Length; r++)
             {
                 while(set.Contains(s[r]))
-                {
-                    set.Remove(s[l]);
-                    l++;
-                }
+                    set.Remove(s[l++]);
                 set.Add(s[r]);
                 maxSubst = Math.Max(maxSubst, r - l + 1);
             }
