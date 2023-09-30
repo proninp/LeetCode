@@ -13,14 +13,11 @@ namespace LeetCode.Easy
         public int MaxProfit(int[] prices)
         {
             int l = 0, r = 1;
-            int profit, maxProfit = 0;
+            int maxProfit = 0;
             while (r < prices.Length)
             {
                 if (prices[l] < prices[r])
-                {
-                    profit = prices[r] - prices[l];
-                    maxProfit = Math.Max(maxProfit, profit);
-                }
+                    maxProfit = Math.Max(maxProfit, prices[r] - prices[l]);
                 else
                     l = r;
                 r++;
