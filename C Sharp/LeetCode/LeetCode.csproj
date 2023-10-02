@@ -189,6 +189,7 @@
     <Compile Include="Medium\167TwoSumII-InputArrayIsSorted.cs" />
     <Compile Include="Medium\1807EvaluateTheBracketPairsOfAString.cs" />
     <Compile Include="Medium\2023NumberOfPairsOfStringsWithConcatenationEqualToTarget.cs" />
+    <Compile Include="Medium\2038RemoveColoredPieces.cs" />
     <Compile Include="Medium\2130MaximumTwinSumOfALinkedList.cs" />
     <Compile Include="Medium\2181MergeNodesInBetweenZeros.cs" />
     <Compile Include="Medium\2265CountNodesEqualToAverageOfSubtree.cs" />
