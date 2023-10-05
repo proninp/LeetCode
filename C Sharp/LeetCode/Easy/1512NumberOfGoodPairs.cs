@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Easy
 {
@@ -21,10 +17,10 @@ namespace LeetCode.Easy
         public static int NumIdenticalPairs2(int[] nums)
         {
             var counts = new int[102];
-            foreach(var e in nums)
+            foreach (var e in nums)
                 counts[e]++;
             int ans = 0;
-            foreach(var e in counts)
+            foreach (var e in counts)
                 ans += (e * (e - 1)) / 2;
             return ans;
         }
@@ -33,12 +29,12 @@ namespace LeetCode.Easy
         {
             Dictionary<int, int> map = new Dictionary<int, int>();
             int ans = 0;
-            foreach(var i in nums)
+            foreach (var i in nums)
             {
                 int e = map.ContainsKey(i) ? map[i] : 0;
                 ans += e;
                 map[i] = e + 1;
-            }   
+            }
             return ans;
         }
     }
