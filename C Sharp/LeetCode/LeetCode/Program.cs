@@ -1,12 +1,9 @@
 ﻿using LeetCode.Common;
 using LeetCode.Medium;
-using System;
-using System.Collections.Generic;
-using System.Security.Policy;
 
 namespace LeetCode
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -34,6 +31,5 @@ namespace LeetCode
             var ans = _2AddTwoNumbers.AddTwoNumbers(l1, l2);
             Console.ReadLine();
         }
-
     }
 }
