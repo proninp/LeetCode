@@ -45,6 +45,8 @@
                     continue;
                 res += dist;
                 visited.Add(point);
+                if (visited.Count == n)
+                    break;
                 var adj = dictionary[point];
                 for (var i = 0; i < adj.Count; i++)
                     if (!visited.Contains(adj[i].Item2))
