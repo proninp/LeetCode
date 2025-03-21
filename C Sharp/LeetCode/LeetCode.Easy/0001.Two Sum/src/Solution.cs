@@ -4,15 +4,14 @@ public sealed class Solution
 {
     public int[] TwoSum(int[] nums, int target)
     {
+        var map = new Dictionary<int, int>();
         for (int i = 0; i < nums.Length; i++)
         {
             var seek = target - nums[i];
-            for (int j = i + 1; j < nums.Length; j++)
-            {
-                if (nums[j] == seek)
-                    return [i, j];
-            }
+            if (map.ContainsKey(seek))
+                return [map[seek], i];
+            map[nums[i]] = i;
         }
-        return [-1, -1];
+        return Array.Empty<int>();
     }
 }
