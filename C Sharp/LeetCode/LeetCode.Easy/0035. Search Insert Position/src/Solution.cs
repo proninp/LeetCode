@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Easy._35._Search_Insert_Position.src;
+﻿namespace LeetCode.Easy._0035._Search_Insert_Position.src;
 
 public class Solution
 {
