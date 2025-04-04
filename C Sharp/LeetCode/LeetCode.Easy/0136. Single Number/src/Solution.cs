@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Easy._136._Single_Number.src;
+﻿namespace LeetCode.Easy._0136._Single_Number.src;
 
 public sealed class Solution
 {
@@ -12,4 +12,3 @@ public sealed class Solution
         return result;
     }
 }
-
