@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Easy._0049._Group_Anagrams.src;
+﻿namespace LeetCode.Medium._0049._Group_Anagrams.src;
 
 public sealed class Solution
 {
