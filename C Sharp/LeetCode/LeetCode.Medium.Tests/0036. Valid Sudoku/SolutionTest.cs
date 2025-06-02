@@ -28,7 +28,7 @@ public class SolutionTest
     [MemberData(nameof(TestData))]
     public void BasicTests(char[][] board, bool expected)
     {
-        var s = new Solution();
+        var s = new TrickySoluion();
         var actual = s.IsValidSudoku(board);
         Assert.Equal(actual, expected);
     }
