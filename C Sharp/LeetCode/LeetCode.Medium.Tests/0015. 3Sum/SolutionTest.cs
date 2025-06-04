@@ -27,8 +27,7 @@ public class SolutionTest
 
         var expected = new List<IList<int>>
         {
-            new List<int> { -2, 0, 2 },
-            new List<int> { -2, 0, 2 }
+            new List<int> { -2, 1, 1 }
         };
 
         Assert.Equivalent(expected, result);
